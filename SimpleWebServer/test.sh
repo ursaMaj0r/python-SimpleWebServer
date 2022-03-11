@@ -1,0 +1,1 @@
+authbind --deep python3 ./testServer.py

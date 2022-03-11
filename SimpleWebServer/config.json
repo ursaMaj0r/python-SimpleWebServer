@@ -1,0 +1,7 @@
+{
+    "root_directory": "pages",
+    "log_directory": "logs",
+    "log_level": [
+        "info"
+    ]
+}
