@@ -1,7 +1,7 @@
 # SimpleWebServer
 
 SimpleWebServer is a basic HTTP/HTTPS server that supports server side execution. It was designed for educational purposes and is vulnerable to many common
-HTTP exploits such as SQL Injection, Shell Injection and Directory Traversal. Not for use in production environments.
+HTTP exploits such as SQL Injection, Shell Injection and Directory Traversal. Not for use in production environments. Starter SSL certificates are provided for ease of use, but should be replaced!
 
 ## Usage
 Example 1: HTTP
